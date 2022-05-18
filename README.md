@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=da20shadow' alt='github stat' width='46%' align='left' />
 <img src='https://github-readme-stats.vercel.app/api?username=da20shadow&show_icons=true&theme=dracula' alt='github stat' width='46%' align='right'/>
-
+<br>
+<hr>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=da20shadow' alt='github stat' width='35%' align='left'/>
