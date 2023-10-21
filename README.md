@@ -3,7 +3,7 @@
 💻 I am Mehmed Syuleyman a passionate and dedicated Software Engineer with a strong affinity for JavaScript and React. I hold diplomas in Java Full Stack and JS Web development from Softuni, allowing me to excel in a variety of tech stacks. With experience in JavaScript, TypeScript, Java, Java DB, MySQL, Spring, Spring MVC, Spring Boot, Spring Data, Node.js, Express, React, Angular, MongoDB, HTML, CSS, SASS (SCSS), Tailwind CSS, Bootstrap, PHP, Laravel, Symphony, Figma, and Git, I'm well-versed in a wide range of technologies.
 
 ### 📫 How to reach me:
-Feel free to connect with me through email: email@mehmed-syuleyman.com
+Feel free to connect with me through email: contact@mehmed-syuleyman.com
 
 ### Other interests:
 
