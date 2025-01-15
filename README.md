@@ -38,4 +38,6 @@ More stats here https://github.com/rzashakeri/beautify-github-profile?ref=produc
 <img src='https://github-readme-stats.vercel.app/api?username=da20shadow&show_icons=true&theme=dracula' alt='github stat' width='46%' align='right'/>
 -->
 
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=da20shadow&layout=compact&hide_border=true" /></a> |
+
 <img src='https://da20shadow-readme-stats.vercel.app/api/top-langs/?username=da20shadow&layout=compact' alt='github stat' width='40%' align='right'/>
