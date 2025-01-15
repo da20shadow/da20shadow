@@ -40,5 +40,6 @@ More stats here https://github.com/rzashakeri/beautify-github-profile?ref=produc
 
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=da20shadow&layout=compact&hide_border=true" /></a> |
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=da20shadow&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" /></a>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=da20shadow&column=7" alt="GitHub Trophies" />
 
 <img src='https://da20shadow-readme-stats.vercel.app/api/top-langs/?username=da20shadow&layout=compact' alt='github stat' width='40%' align='right'/>
