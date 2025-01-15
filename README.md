@@ -30,6 +30,9 @@ JavaScript, TypeScript, React, Angular, Java, Spring Boot, Laravel, Symfony, Cas
 [![](https://skillicons.dev/icons?i=js,ts,react,angular,redux,nodejs,mongodb,html,css,sass,materialui,tailwind,bootstrap,figma,php,laravel,symfony,mysql,java,maven,spring,postman,regex,linux,powershell,git,)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
+
+[![GitHub Streak](https://da20shadow-streak-stats.vercel.app?user=da20shadow)](https://git.io/streak-stats)
+
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=da20shadow' alt='github stat' width='55%' align='left' />
 <!--
 More stats here https://github.com/rzashakeri/beautify-github-profile?ref=producthunt
