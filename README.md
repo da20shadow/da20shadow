@@ -33,9 +33,9 @@ JavaScript, TypeScript, React, Angular, Java, Spring Boot, Laravel, Symfony, Cas
 
 [![GitHub Streak](https://da20shadow-streak-stats.vercel.app?user=da20shadow)](https://git.io/streak-stats)
 
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=da20shadow' alt='github stat' width='55%' align='left' />
 <!--
 More stats here https://github.com/rzashakeri/beautify-github-profile?ref=producthunt
 <img src='https://github-readme-stats.vercel.app/api?username=da20shadow&show_icons=true&theme=dracula' alt='github stat' width='46%' align='right'/>
 -->
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=da20shadow&layout=compact' alt='github stat' width='40%' align='right'/>
+
+<img src='https://da20shadow-readme-stats.vercel.app/api/top-langs/?username=da20shadow&layout=compact' alt='github stat' width='40%' align='right'/>
