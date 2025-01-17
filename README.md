@@ -29,7 +29,10 @@ Here’s a glimpse into my technical toolkit:
 JavaScript, TypeScript, React, Angular, Java, Spring Boot, Laravel, Symfony, Cassandra, MongoDB, MySQL, Redux, Zustand, Framer Motion, Tailwind CSS, Bootstrap, MUI, PHP, Figma, Postman, Git, Linux, and many more.
 [![](https://skillicons.dev/icons?i=js,ts,react,angular,redux,nodejs,mongodb,html,css,sass,materialui,tailwind,bootstrap,figma,php,laravel,symfony,mysql,java,maven,spring,postman,regex,linux,powershell,git,)](https://skillicons.dev)
 
+<p align="center">
 ## 📈 GitHub Stats
+</p>
+
 <p align="center">
   <img src="https://da20shadow-streak-stats.vercel.app?user=da20shadow" alt="GitHub Streak" />
 </p>
