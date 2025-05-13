@@ -22,7 +22,7 @@ Whether you're looking for a dynamic web application, a feature-rich mobile solu
 
 
 ## 📬 How to Reach Me
-- 📧 Email: [contact@mehmed-syuleyman.com](mailto:contact@mehmed-syuleyman.com)
+- 📧 Email: [contact@mehmed.dev](mailto:contact@mehmed.dev)
 
 
 ## ⚡ Fun Fact
