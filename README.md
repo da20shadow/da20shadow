@@ -33,6 +33,7 @@ I started my journey in tech as an entrepreneur, and today, I’m combining that
 Here’s a glimpse into my technical toolkit:
 
 JavaScript, TypeScript, React, React Native, NestJS, Angular, Java, Spring Boot, Laravel, Symfony, Cassandra, MongoDB, MySQL, Redux, Zustand, Framer Motion, Tailwind CSS, Bootstrap, MUI, PHP, Figma, Postman, Git, Linux, and many more.
+
 [![](https://skillicons.dev/icons?i=js,ts,react,angular,redux,nodejs,mongodb,html,css,sass,materialui,tailwind,bootstrap,figma,php,laravel,symfony,mysql,java,maven,spring,postman,regex,linux,powershell,git,)](https://skillicons.dev)
 
 <h2 align="center">
