@@ -4,7 +4,7 @@ I’m a passionate entrepreneur and full-stack developer with a mission to creat
 
 
 ## 🚀 About Me
-With a deep understanding of the tech landscape, my expertise spans a wide range of languages and frameworks, including **JavaScript**, **TypeScript**, **NextJS**, **React**, **Angular**, **Java**, **Spring Boot**, **Laravel**, **Symfony**, **Cassandra**, **MongoDB**, **MySQL**, **PHP**, and more. I’m passionate about creating applications that blend technology with real-world business needs, delivering exceptional user experiences through clean code and thoughtful design.
+With a deep understanding of the tech landscape, my expertise spans a wide range of languages and frameworks, including **JavaScript**, **TypeScript**, **Java**, **PHP**, **NextJS**, **React**, **Angular**, **Spring**, **Laravel**, **Symfony**, and more. I’m passionate about creating applications that blend technology with real-world business needs, delivering exceptional user experiences through clean code and thoughtful design.
 
 Beyond the technical stack, I bring years of experience in **leading projects**, **collaborating with experts**, and **transforming ideas into successful products**. My early years of working with diverse teams have honed my skills in identifying and addressing core business needs, making me a client-focused partner ready to help businesses leverage tech for tangible growth.
 
