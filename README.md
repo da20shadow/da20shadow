@@ -10,7 +10,7 @@ Beyond the technical stack, I bring years of experience in **leading projects**,
 
 
 ## 🤝 Let's Build Something Extraordinary!
-I’m always looking to collaborate with talented developers, designers, and innovators who are eager to push the boundaries of technology. My goal is to work alongside others who value **quality**, **innovation**, and **collaboration** as much as I do, building solutions that aren’t just functional but truly impactful.
+I’m always looking to collaborate with talented people, and innovators who are eager to push the boundaries of technology. My goal is to work alongside others who value **quality**, **innovation**, and **collaboration** as much as I do, building solutions that aren’t just functional but truly impactful.
 
 Whether you're looking for a dynamic web application, a feature-rich mobile solution, or a one-of-a-kind product, I’d love to hear about your vision. Together, we can bring your ideas to life with the latest technologies, creating solutions that set your business apart in the digital world.
 
