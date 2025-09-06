@@ -26,8 +26,7 @@ Whether you're looking for a dynamic web application, a feature-rich mobile solu
 
 
 ## ⚡ Fun Fact
-I started my journey in tech as an entrepreneur, and today, I’m combining that business mindset with hands-on full-stack development to create solutions that are practical, innovative, and deeply impactful. Ready to bring your next big idea to life with a blend of entrepreneurial experience and technical expertise? Let’s make it happen!
-
+I started my journey in tech as an entrepreneur, and today, I’m combining that business mindset with hands-on full-stack development to create solutions that are practical, innovative, and deeply impactful. 
 
 ## 🛠️ Technologies & Skills
 Here’s a glimpse into my technical toolkit:
