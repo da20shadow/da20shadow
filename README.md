@@ -35,6 +35,7 @@ JavaScript, TypeScript, React, React Native, NestJS, Angular, Java, Spring Boot,
 
 [![](https://skillicons.dev/icons?i=js,ts,react,angular,redux,nodejs,mongodb,html,css,sass,materialui,tailwind,bootstrap,figma,php,laravel,symfony,mysql,java,maven,spring,postman,regex,linux,powershell,git,)](https://skillicons.dev)
 
+
 <h2 align="center">
   📈 GitHub Stats
 </h2>
